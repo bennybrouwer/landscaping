@@ -1,0 +1,20 @@
+.myClass { margin:0; }
+#myID { margin:0; }
+
+body {
+  margin:0;
+  padding:0;
+  overflow: hidden;
+}
+canvas {
+  margin: auto;
+}
+p {
+  color: black;
+}
+div {
+  color: darkblue;
+}
+span {
+  color: darkgreen;
+}
